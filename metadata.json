@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Mohamed Sabra Elnaggar Dental Clinic",
+  "description": "عيادة د. محمد صبرة النجار لطب وجراحة الفم والأسنان وتقويم الأسنان - منصة الحجز الذكي وإدارة العيادة بديرب نجم",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
